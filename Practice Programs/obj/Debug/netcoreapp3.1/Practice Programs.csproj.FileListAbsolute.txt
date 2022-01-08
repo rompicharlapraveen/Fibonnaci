@@ -1,0 +1,14 @@
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\bin\Debug\netcoreapp3.1\Practice Programs.exe
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\bin\Debug\netcoreapp3.1\Practice Programs.deps.json
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\bin\Debug\netcoreapp3.1\Practice Programs.runtimeconfig.json
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\bin\Debug\netcoreapp3.1\Practice Programs.runtimeconfig.dev.json
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\bin\Debug\netcoreapp3.1\Practice Programs.dll
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\bin\Debug\netcoreapp3.1\Practice Programs.pdb
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.csproj.AssemblyReference.cache
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.AssemblyInfoInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.AssemblyInfo.cs
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.dll
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.pdb
+C:\Users\Praveen Rompicharla\source\repos\Practice Programs\Practice Programs\obj\Debug\netcoreapp3.1\Practice Programs.genruntimeconfig.cache
