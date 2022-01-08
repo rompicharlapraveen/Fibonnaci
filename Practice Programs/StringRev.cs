@@ -15,6 +15,7 @@ namespace Practice_Programs
                 str2 = str2 + str1[l];
             }
             Console.WriteLine(str2);
+            Console.WriteLine("praveen...");
             Console.ReadLine();
         }
     }
