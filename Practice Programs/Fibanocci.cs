@@ -18,6 +18,7 @@ namespace Practice_Programs
                 n2 = n3;
             }
             Console.WriteLine("praveen");
+             Console.WriteLine("ROM");
             Console.ReadLine();
         }
     }
